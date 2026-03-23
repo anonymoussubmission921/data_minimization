@@ -1,2 +1,2 @@
 # data_minimization
-Data minimization
+model and train code for the Data minimization
